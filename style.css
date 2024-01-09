@@ -1,0 +1,8 @@
+.container{
+    height: 100%;
+    width: 100%;
+    background: url(./Squarespace-Juniper-restaurant-template.webp);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
